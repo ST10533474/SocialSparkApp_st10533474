@@ -38,4 +38,4 @@ Nelly Mgijima
 ST1533474
 
 GitHub Repository
-git@github.com:ST10533474/SocialSparkApp.git
+git@github.com:ST10533474/SocialSparkApp_st10533474.git
